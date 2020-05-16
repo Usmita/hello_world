@@ -1,2 +1,3 @@
 # hello_world
-Skip
+Skip...
+This is me Learning to use the hub.
